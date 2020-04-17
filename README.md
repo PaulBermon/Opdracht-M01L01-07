@@ -1,3 +1,3 @@
-# Opdracht-M01L01-06
+# Opdracht-M01L02-06
 
-Opdracht - CSS basics.
+Opdracht - CSS Box Model
